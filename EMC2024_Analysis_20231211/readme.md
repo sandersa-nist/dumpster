@@ -5,6 +5,7 @@ Currently the idea is to transform the thermally equivalent power paper written 
 <hr/>
 
 
+
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
